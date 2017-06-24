@@ -1,0 +1,2 @@
+# component-body
+Body component
