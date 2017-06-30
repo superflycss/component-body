@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/component-body",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Body component",
   "main": "src/main/css/index.css",
   "scripts": {
@@ -28,12 +28,12 @@
   "devDependencies": {
     "@superflycss/foundation": "^1.0.0",
     "@superflycss/task-build": "^1.0.5",
-    "@superflycss/task-clean": "^1.0.0",
-    "@superflycss/task-deploy": "^1.0.2",
+    "@superflycss/task-clean": "^1.0.2",
+    "@superflycss/task-deploy": "^2.0.4",
     "@superflycss/task-test": "^1.0.1",
-    "@superflycss/utilities-colors": "^1.0.0",
-    "@superflycss/utilities-layout": "^1.0.0",
+    "@superflycss/utilities-colors": "^2.0.7",
+    "@superflycss/utilities-layout": "^2.0.5",
     "gulp": "^3.9.1",
-    "npm-check-updates": "^2.12.0"
+    "npm-check-updates": "^2.12.1"
   }
 }
