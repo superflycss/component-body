@@ -1,6 +1,6 @@
 {
   "name": "@superflycss/component-body",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Body component",
   "main": "src/main/css/index.css",
   "scripts": {
