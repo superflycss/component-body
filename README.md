@@ -1,5 +1,7 @@
 # Body component
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/superflycss/component-body.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/superflycss/component-body.svg?branch=master)](https://travis-ci.org/superflycss/component-body)
 
 ## Installation
