@@ -32,7 +32,7 @@
     "@superflycss/task-deploy": "^2.0.4",
     "@superflycss/task-test": "^1.0.1",
     "@superflycss/utilities-colors": "^2.0.7",
-    "@superflycss/utilities-layout": "^2.0.5",
+    "@superflycss/utilities-layout": "^4.0.0",
     "gulp": "^3.9.1",
     "npm-check-updates": "^2.12.1"
   }
