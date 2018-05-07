@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/superflycss/component-body#readme",
   "devDependencies": {
-    "@superflycss/foundation": "^1.0.0",
+    "@superflycss/foundation": "^2.0.0",
     "@superflycss/task-build": "^1.0.5",
     "@superflycss/task-clean": "^1.0.2",
     "@superflycss/task-deploy": "^2.0.4",
