@@ -34,6 +34,6 @@
     "@superflycss/utilities-colors": "^2.0.7",
     "@superflycss/utilities-layout": "^2.0.5",
     "gulp": "^3.9.1",
-    "npm-check-updates": "^2.12.1"
+    "npm-check-updates": "^3.0.0"
   }
 }
