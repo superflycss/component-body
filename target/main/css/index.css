@@ -1,0 +1,10 @@
+/** @define component */
+/*! | superflycss/component-body |
+    | MIT License                |
+    | https://github.com/superflycss/component-body/blob/master/LICENSE.md */
+.Body {
+  background-color: #FFFFFF;
+  min-height: 100%;
+  min-width: 270px;
+  margin: 0px;
+}

@@ -1,0 +1,22 @@
+/** @define component */
+/*! | superflycss/component-body |
+    | MIT License                |
+    | https://github.com/superflycss/component-body/blob/master/LICENSE.md */
+
+:root {
+  --Body-min-width: 270px;
+  --Body-min-height: 100%;
+  --Body-background-color: #FFFFFF;
+  --Body-margin: 0px;
+
+  --Body {
+    background-color: var(--Body-background-color);
+    min-height: var(--Body-min-height);
+    min-width: var(--Body-min-width);
+    margin: var(--Body-margin);
+  }
+}
+
+.Body {
+  @apply(--Body);
+}

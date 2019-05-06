@@ -1,0 +1,31 @@
+{
+  "name": "@superflycss/component-body",
+  "version": "1.0.4",
+  "description": "Body component",
+  "main": "src/main/css/index.css",
+  "scripts": {
+    "update": "ncu -u && npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superflycss/component-body.git"
+  },
+  "keywords": [
+    "css",
+    "superflycss",
+    "site",
+    "component"
+  ],
+  "author": "Ole Ersoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superflycss/component-body/issues"
+  },
+  "homepage": "https://github.com/superflycss/component-body#readme",
+  "devDependencies": {
+    "@superflycss/foundation": "^2.0.3",
+    "@superflycss/utilities-colors": "^3.1.0",
+    "@superflycss/utilities-layout": "^4.0.22",
+    "npm-check-updates": "^3.1.9"
+  }
+}
