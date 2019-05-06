@@ -1,13 +1,10 @@
 {
   "name": "@superflycss/component-body",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Body component",
   "main": "src/main/css/index.css",
   "scripts": {
-    "update": "ncu -a && npm i",
-    "clean": "gulp clean",
-    "build": "npm run clean && gulp build:css",
-    "test": "npm run build && gulp test:css"
+    "update": "ncu -u && npm i"
   },
   "repository": {
     "type": "git",
@@ -26,14 +23,9 @@
   },
   "homepage": "https://github.com/superflycss/component-body#readme",
   "devDependencies": {
-    "@superflycss/foundation": "^1.0.0",
-    "@superflycss/task-build": "^1.0.5",
-    "@superflycss/task-clean": "^1.0.2",
-    "@superflycss/task-deploy": "^2.0.4",
-    "@superflycss/task-test": "^1.0.1",
-    "@superflycss/utilities-colors": "^2.0.7",
-    "@superflycss/utilities-layout": "^2.0.5",
-    "gulp": "^3.9.1",
-    "npm-check-updates": "^2.12.1"
+    "@superflycss/foundation": "^2.0.3",
+    "@superflycss/utilities-colors": "^3.1.0",
+    "@superflycss/utilities-layout": "^4.0.22",
+    "npm-check-updates": "^3.1.9"
   }
 }
