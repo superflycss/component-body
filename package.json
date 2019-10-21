@@ -26,6 +26,6 @@
     "@superflycss/foundation": "^2.0.3",
     "@superflycss/utilities-colors": "^3.1.0",
     "@superflycss/utilities-layout": "^4.0.22",
-    "npm-check-updates": "^3.1.9"
+    "npm-check-updates": "^3.1.25"
   }
 }
